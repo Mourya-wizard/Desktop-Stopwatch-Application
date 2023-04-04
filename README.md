@@ -29,4 +29,4 @@ You can view the lap times in the box below the timer. The box will show the lap
 
 ## Credits
 
-This application was created by Mourya Konathala.
+This application was created by [Mourya-Wizard](https://github.com/Mourya-wizard).
